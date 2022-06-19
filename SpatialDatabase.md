@@ -1,0 +1,1 @@
+当说起空间信息，常见的是GIS，也就是地理信息系统。GIS更多的是作为一个visualization的一个最后呈现，这里关注更多的是存储spatial data的database.
